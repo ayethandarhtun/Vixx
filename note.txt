@@ -1,0 +1,4 @@
+ <orderapproveprice>GetOrderConfirm</orderapproveprice>
+ <adjustprice>6</adjustprice>  
+      <fixedprice>7</fixedprice>
+      <ordereditor>10</ordereditor>
