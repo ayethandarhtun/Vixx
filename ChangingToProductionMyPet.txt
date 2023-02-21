@@ -1,0 +1,5 @@
+1) Db BackUp (SIT_Mypet),Api BackUp
+2) Migration File For SIT_MyPet
+3) Database Config Data Filling For OrderMessage
+4) Default clear
+5) Category deleted changing
