@@ -1,5 +1,13 @@
-1) Db BackUp (SIT_Mypet),Api BackUp
-2) Migration File For SIT_MyPet
-3) Database Config Data Filling For OrderMessage
-4) Default clear
-5) Category deleted changing
+1) Db BackUp (SIT_Mypet),Api BackUp (done)
+2) Migration File For SIT_MyPet(done)
+3) Database Config Data Filling For OrderMessage(done)
+4) Default clear(done)
+5) Category deleted changing(done)
+
+autha (done)
+memberpoint(done)
+delivery(done)
+coreshopdoora(done)
+coreshopdoora_v2(done)
+mypet(done)
+
